@@ -57,7 +57,7 @@ const createShortUrl = async (req, res) => {
         const endDate = moment().add(30, 'minutes')
 
         const newShortUrl = await urlService.createShortUrl({ url, shortUrl, endDate })
-        //newShortUrl.shortUrl = `${config.urlBase}/${newShortUrl.shortUrl}`
+        newShortUrl.shortUrl = `${config.urlBase}/${newShortUrl.shortUrl}`
 
         res.status(201).json({ success: true, data: newShortUrl, message: 'Create new short url.' })
 
