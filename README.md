@@ -1,6 +1,6 @@
 # 🔗 Url shortner
 
-API server usando Nodejs para fazer encurtador de URLs. Nessa aplicação você pode encurar urls, para isso basta consumir as nossas rotas
+Simplesmente uma API server usando Nodejs para encurtar URLs. Para isso, basta consumir as rotas.
 
 ## Rotas
 
