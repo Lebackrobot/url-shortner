@@ -19,7 +19,7 @@ Foi utilizado uma arquitetura MVC. Portanto temos:
 &nbsp; &nbsp; &nbsp; 📁 service /urlService.js <br>
 &nbsp; &nbsp; &nbsp; 📁 models/urlModel<br>
 &nbsp; &nbsp; &nbsp; 📝 app.js <br>
-📝 server.py <br>
+📝 server.js <br>
 
 ## Dependências
 Antes de executar o server, é necessário instalar as dependências do projeto
