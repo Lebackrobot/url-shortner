@@ -18,7 +18,7 @@ Foi utilizado uma arquitetura MVC. Portanto temos:
 &nbsp; &nbsp; &nbsp; 📁 controllers /urlController.js <br>
 &nbsp; &nbsp; &nbsp; 📁 service /urlService.js <br>
 &nbsp; &nbsp; &nbsp; 📁 models/urlModel<br>
-&nbsp; &nbsp; &nbsp; 📝 app.py <br>
+&nbsp; &nbsp; &nbsp; 📝 app.js <br>
 📝 server.py <br>
 
 ## Dependências
